@@ -1,0 +1,17 @@
+notes-app/
+│
+├── server/
+│   ├── app.py
+│   ├── config.py
+│   ├── models.py
+│   ├── seed.py
+│   ├── requirements.txt
+│   └── migrations/
+│
+└── client/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── App.jsx
+    │   └── main.jsx
+    └── package.json
